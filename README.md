@@ -6,4 +6,6 @@ When he started you wrote some tests that he was supposed to make pass, but he n
 
 Don't let Little Timmy down, he's counting on you!
 
+Note: None of the tests have errors, the rest of the code is sprinkled with errors.
+
 ![Sad Dr](http://mashable.com/wp-content/uploads/2013/07/Dr.-Who.gif)
